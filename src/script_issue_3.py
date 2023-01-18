@@ -2,7 +2,7 @@
 
 
 # Complete the operation below, adding a single arithmetic operator  so 'result' can be equal to '9'
-result = 3 * 3
+RESULT = 3 * 3
 
 # Print output
-print(result)
+print(RESULT)
