@@ -14,6 +14,7 @@ Git and GitHub tutorial for Primers for Predocs 2023.
 ![Pylint Issue10](https://github.com/santanaw/primers4predoc-git/actions/workflows/pylint_issue10.yml/badge.svg)
 ![Pylint Issue11](https://github.com/santanaw/primers4predoc-git/actions/workflows/pylint_issue11.yml/badge.svg)
 ![Pylint Issue12](https://github.com/santanaw/primers4predoc-git/actions/workflows/pylint_issue12.yml/badge.svg)
+![Pylint Issue13](https://github.com/santanaw/primers4predoc-git/actions/workflows/pylint_issue13.yml/badge.svg)
 
 
 ## Contents
@@ -182,5 +183,5 @@ The SSH link is neaded instead of the HTTPS when using the SSH Authentication me
 
 ## Acknowledgements
 
-Parts of this tutorial were taken or adapted from the[ Git tutorial of Primers for Predocs 2022](https://github.com/helrick/git-tutorial). Thank you Hilary!
+Parts of this tutorial were taken or adapted from the[ Git tutorial of Primers for Predocs 2022](https://github.com/helrick/git-tutorial). Thank you Hillary!
 
