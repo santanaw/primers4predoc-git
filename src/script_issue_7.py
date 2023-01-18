@@ -5,4 +5,4 @@
 RESULT = 7 + 7
 
 # Print output
-print(result)
+print(RESULT)
